@@ -21,6 +21,12 @@
 
 ---
 
+！[image](screenshot/image.png)
+
+！[image](screenshot/vote.png)
+
+---
+
 ## 1. 系統概述
 
 線上投票系統提供兩個主要功能：
@@ -393,11 +399,6 @@ esunVote/
 │       └── views/
 │           ├── VoteView.vue           # 投票區頁面
 │           └── AdminView.vue          # 後台管理頁面
-│
-└── screenshots/                       # 截圖放置處（自行建立）
-    ├── vote-page.png
-    ├── admin-page.png
-    └── admin-dialog.png
 ```
 
 ---
